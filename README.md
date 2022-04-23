@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: David Mares
 
 Time spent: **#** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/fern-recondite-fright?path=README.md%3A1%3A0
 
 ## Required Functionality
 
@@ -22,31 +22,29 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
-* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](https://minersutep-my.sharepoint.com/:i:/g/personal/demares_miners_utep_edu/EU3mZuh60fZIop4SGGzkde0BYYT_PkdjED6-RY1W9dn50w?e=ds88O4)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+During the development of this project, I faced the challenge of identifying syntax errors in HTML. Usually, when I'm coding, I would have an IDE checking my syntax errors so that my program ran nicely. Additionally, even if the IDE didn't catch an error and instead the compiler throws an error, I would be able to quickly identify where the program went wrong. However, when I was coding with HTML and Javascript, I quickly realized how easy it is to make mistakes and have a program run. For example, when I was coding the start and stop buttons in HTML, I misspelled onclick with onlik and this caused an issue as the game didn't start. When I encountered this problem, I thought the issue was in the function name in Javascript, so I copied and pasted the function name in HTML. This didn't work and confused me and so I spent an hour trying to debug it. Eventually, I decided to check the HTML syntax and noticed the misspelling of onclick. After that problem, I realized how I was too dependent on an IDE in checking syntax errors. From then on, I would carefully check my syntax in my program and started to develop my debugging skills.
+
+
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
